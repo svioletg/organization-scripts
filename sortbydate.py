@@ -53,7 +53,7 @@ if sort_files == False:
 while True:
 	try:
 		month_type = int(input("""
-1 - Number-only;             e.g 09
+1 - Number only;             e.g 09
 2 - Number and abbreviation; e.g 09 Sep
 3 - Number and full name;    e.g 09 September
 4 - Abbreviation;            e.g Sep
